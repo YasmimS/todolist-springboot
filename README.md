@@ -15,5 +15,5 @@ Projeto desenvolvido como exercício durante a semana Java na RockeSeat, que oco
 
 > Build
 
-Foi realizado build da aplicação via render.com para consulta no endereço :wave: [LinkedIn](https://todolist-springboot-j1vl.onrender.com)  
+Foi realizado build da aplicação via render.com para consulta no endereço :wave: [render](https://todolist-springboot-j1vl.onrender.com)  
 
